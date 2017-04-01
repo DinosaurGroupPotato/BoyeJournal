@@ -8,6 +8,20 @@ Play with formatting later
 | 2017/26/03      | Created images for Main Character Stand, Duck, and Walk Left & Right and Climb animations   | 3 |
 | 2017/29/03      | Created initial design document; created and committed initial Visual Studio solution; created basic model design  | 2 |
 | 2017/30/03      | Worked on Design Document  | 0.5 |
+| 2017/31/03      | Worked on  Game Model, edited Game Specification, created High Score and High Score Input screens | 2.25 |
+| 2017/XX/XX      | Templated  | XX |
+| 2017/XX/XX      | Templated  | XX |
+| 2017/XX/XX      | Templated  | XX |
+| 2017/XX/XX      | Templated  | XX |
+| 2017/XX/XX      | Templated  | XX |
+| 2017/XX/XX      | Templated  | XX |
+| 2017/XX/XX      | Templated  | XX |
+| 2017/XX/XX      | Templated  | XX |
+| 2017/XX/XX      | Templated  | XX |
+| 2017/XX/XX      | Templated  | XX |
+| 2017/XX/XX      | Templated  | XX |
+| 2017/XX/XX      | Templated  | XX |
+| 2017/XX/XX      | Templated  | XX |
 | 2017/XX/XX      | Templated  | XX |
 | 2017/XX/XX      | Templated  | XX |
 | 2017/XX/XX      | Templated  | XX |
